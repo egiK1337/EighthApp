@@ -1,0 +1,15 @@
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\bin\Debug\net7.0\EighthApp.exe
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\bin\Debug\net7.0\EighthApp.deps.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\bin\Debug\net7.0\EighthApp.runtimeconfig.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\bin\Debug\net7.0\EighthApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\bin\Debug\net7.0\EighthApp.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\obj\Debug\net7.0\EighthApp.csproj.AssemblyReference.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\obj\Debug\net7.0\EighthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\obj\Debug\net7.0\EighthApp.AssemblyInfoInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\obj\Debug\net7.0\EighthApp.AssemblyInfo.cs
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\obj\Debug\net7.0\EighthApp.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\obj\Debug\net7.0\EighthApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\obj\Debug\net7.0\refint\EighthApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\obj\Debug\net7.0\EighthApp.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\obj\Debug\net7.0\EighthApp.genruntimeconfig.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\EighthApp\EighthApp\obj\Debug\net7.0\ref\EighthApp.dll
